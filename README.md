@@ -1,4 +1,4 @@
-roll_a_dice < br / >
+#ROLL A DICE <br >
 
 main code seen in lib folder and assets folder 
 ##
