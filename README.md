@@ -1,7 +1,9 @@
 roll_a_dice < br / >
 
-main code seen in lib folder and assets folder < br / >
- #This is a flutter app that makes use of the DART programming language < br / >
+main code seen in lib folder and assets folder 
+##
+ #This is a flutter app that makes use of the DART programming language 
+ ##
  #Several foundational concepts were employed in the creation of this app such as; < br / >
    #Material Design - which helps build the beautiful UI < br / >
    #Positional and Named Parameters/Arguments < br / >
