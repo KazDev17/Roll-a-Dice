@@ -5,17 +5,17 @@
 
 ### * Several foundational concepts were employed in the creation of this app such as; <br>
 ### * Material Design - which helps build the beautiful UI <br>
-### Positional and Named Parameters/Arguments <br>
-### Methods <br>
-### Constructor functions <br>
-### Custom widgets <br>
-### Lists <br>
-### Variables <br>
-### Stateless and Stateful Widgets <br>
-### createState <br>
-###setState <br>
-### const key6word <br>
-### Buttons <br>
+### * Positional and Named Parameters/Arguments <br>
+### * Methods <br>
+### * Constructor functions <br>
+### * Custom widgets <br>
+### * Lists <br>
+### * Variables <br>
+### * Stateless and Stateful Widgets <br>
+### * createState <br>
+### * setState <br>
+### * const keyword <br>
+### * Buttons <br>
 
    
 
