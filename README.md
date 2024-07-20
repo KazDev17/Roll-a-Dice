@@ -1,22 +1,22 @@
-# ROLL A DICE <br >
+# ROLL A DICE <br>
 
-main code seen in lib folder and assets folder 
+## main code seen in lib folder and assets folder 
 ##
- #This is a flutter app that makes use of the DART programming language 
+## This is a flutter app that makes use of the DART programming language <br>
  ##
- #Several foundational concepts were employed in the creation of this app such as; < br / >
-   #Material Design - which helps build the beautiful UI < br / >
-   #Positional and Named Parameters/Arguments < br / >
-   #Methods < br / >
-   #Constructor functions < br / >
-   #Custom widgets < br / >
-   #Lists < br / >
-   #Variables < br / >
-   #Stateless and Stateful Widgets < br / >
-   #createState < br / >
-   #setState < br / >
-   #const key6word < br / >
-   #Buttons < br / >
+# Several foundational concepts were employed in the creation of this app such as; <br>
+# Material Design - which helps build the beautiful UI <br>
+# Positional and Named Parameters/Arguments <br>
+# Methods <br>
+# Constructor functions <br>
+   #Custom widgets <br>
+   #Lists <br>
+   #Variables <br>
+   #Stateless and Stateful Widgets <br>
+   #createState <br>
+   #setState <br>
+   #const key6word <br>
+   #Buttons <br>
 
    
 
